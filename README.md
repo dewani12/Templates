@@ -4,9 +4,9 @@
 ## NODEJS
 ### API DOCUMENTATION
 
-### 1. /users/register
-### 2. /users/login
-### 3. /users/profile
+### 1. /user/register
+### 2. /user/login
+### 3. /user/profile
 
 
 
